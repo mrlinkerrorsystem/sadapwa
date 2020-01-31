@@ -4,7 +4,7 @@
  	<br>
 </h1>
 
-# Awesome Hacking Resources ![SADAP Hacking](https://img.shields.io/badge/awesome-hacking-red.svg) ![SADAP Hacking](https://img.shields.io/badge/awesome-community-green.svg)
+# Awesome Hacking Resources ![SADAP Hacking](https://cdn.keepo.me/images/post/covers/2019/07/16/main-cover-image-a8839947-ddde-42fd-9e26-ddedafb13a52.jpg) ![SADAP Hacking](https://cdn.keepo.me/images/post/covers/2019/07/16/main-cover-image-a8839947-ddde-42fd-9e26-ddedafb13a52.jpg)
 
 A collection of hacking / penetration testing resources to make you better!
 
